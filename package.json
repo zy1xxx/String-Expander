@@ -2,10 +2,14 @@
   "name": "string-expander",
   "displayName": "string-expander",
   "description": "Expand newline(\\n) characters in selected text",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "xiaomiguaovo",
   "engines": {
     "vscode": "^1.102.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zy1xxx/String-Expander.git"
   },
   "categories": [
     "Other"
